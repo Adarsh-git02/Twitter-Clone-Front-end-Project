@@ -16,12 +16,12 @@ We will build three different pages of Twitter - Main Page, Login Page and News 
  
  vi) DOM 
 
-Once we are familiar with JavaScript and DOM, we will add some functionality to our project. We will create some validation in order to navigate between different pages, also, you will be able to build different modal boxes, sidebar and dark mode.
+Once we are familiar with JavaScript and DOM, we will add some functionality to our project. We will create some validation in order to navigate between different pages, also, we will be able to build different modal boxes, sidebar and dark mode.
 
-Finally, we will make our project fully responsive on different screen sizes, so, you'll be able to master the Responsive Web Design..!!
+Finally, we will make our project fully responsive on different screen sizes, so, we'll be able to master the Responsive Web Design..!!
 
 Thank You :)
 
 ![Twitter - Personal - Microsoft​ Edge 16-12-2022 19_04_23](https://user-images.githubusercontent.com/113299947/208110533-d8e8deaf-ad7a-4337-b986-33ba81d0fe33.png)
-![Twitter - Personal - Microsoft​ Edge 16-12-2022 19_09_05](https://user-images.githubusercontent.com/113299947/208112343-b9cfec72-4964-451a-92de-477578498316.png)
+![Twitter - Personal - Microsoft​ Edge 16-12-2022 19_25_25](https://user-images.githubusercontent.com/113299947/208113699-36844717-7237-44d6-85d9-0f7649cfb3a6.png)
 ![Twitter - Personal - Microsoft​ Edge 16-12-2022 19_06_31](https://user-images.githubusercontent.com/113299947/208110758-01e5a94b-88b3-4936-98d2-1378068e3d05.png)
